@@ -1,35 +1,112 @@
 ![calltek](https://github.com/calltek/.github/assets/5095592/ebd0cc3e-0a20-474f-9121-be048c015b93)
 
-GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
+### ¡Te damos la bienvenida! Puedes generar una solicitud para Atención al Cliente Calltek con las siguientes opciones.
+<br></br>
 
-### Quick Start
+# 📑	 Contacta con nosotros sobre...
 
-* [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
-* [Join Global Campus](https://education.github.com/benefits?type=student) 
-* [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
-
-### Documentation
-
-* [GitHub Terms of Service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-* [GitHub Community Forum Code of Conduct](https://docs.github.com/en/site-policy/github-terms/github-community-forum-code-of-conduct)
-
-### Other Ways to Participate
-
-* [GitHub Stars Program](https://stars.github.com/program/)
-* [GitHub Campus Experts Program](https://education.github.com/experts)
-* [GitHub Events](https://github.com/events)
-* [GitHub Blog](https://github.blog/)
-* [The ReadME Project & Podcast](https://github.com/readme)
-* [GitHub YouTube Channel](https://www.youtube.com/github)
-
-#### Quick note on 3rd party integrations
-> _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
-
-#### Quick note on temporary interaction limits
-In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. 
-Accounts that are at least 24hrs old will be able to post and interact as normal.
-
-If your account is less than 24hrs old and you have a question, please try using the Discussions search bar above to see if your question has already been asked or simply wait a day. We apologize if this causes any inconvenience.
-
-If you'd like to learn more about implementing temporary interaction limits in your own orgs and repos, please read up on the official documentation [here](https://docs.github.com/en/communities/moderating-comments-and-conversations/limiting-interactions-in-your-organization).
+  <details>
+    <summary><h3>💭 Solicitudes Generales</h3></summary>
+    <details>
+      <summary> Problema con licencia de software<br>
+      <sub>Licencias caducadas, incorrectas o que son de otra versión.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary> Cambio en GestiOS<br>
+      <sub>Necesito realizar uno o varios cambios en mi plataforma GestiOS.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Creo que tengo un virus en el equipo<br>
+        <sub>Los síntomas de un virus puedes ser: lentitud, problemas con el teclado, problemas con los archivos...</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Nueva función para WordPress<br>
+        <sub>Necesito una función concreta para mi WordPress.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Ayuda técnica<br>
+        <sub>Obtén ayuda para problemas técnicos generales.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Quiero integrar una red VPN en mi oficina<br>
+        <sub>Las redes VPN sirven para poder acceder de forma privada a una oficina en remoto, entre otras posibilidades.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Necesito una cuenta nueva<br>
+        <sub>Requerir una cuenta nueva para una o varias herramientas.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Problema de una herramienta de software<br>
+        <sub>Haznos saber qué no está funcionando correctamente y haremos todo lo posible por ayudarte.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Hardware roto<br>
+        <sub>Problemas con el hardware: por ejemplo, una pantalla rota o un ordenador que no llega a encender.</sub>
+      </summary>
+    </details>
+    <details>
+      <summary>Pedir un cambio en sitio web o tienda online<br>
+        <sub>Necesito realizar uno o varios cambios en mi sitio web o tienda online.</sub>
+      </summary>
+    </details>
+    <summary><h3>💻 Hardware y Equipos Informáticos</h3></summary>
+    <details>
+			<summary>Problema con licencia de software<br>
+				<sub>Licencias caducadas, incorrectas o que son de otra versión.</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Problema con impresora<br>
+				<sub>Mi dispositivo no encuentra la impresora, mi impresora no imprime correctamente o no imprime.</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Mi equipo va muy lento<br>
+				<sub>¿Has notado que el ordenador tarda más de lo habitual en realizar sus tareas?</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Creo que tengo un virus en el equipo<br>
+				<sub>Los síntomas de un virus pueden ser: lentitud, problemas con el teclado, problemas con los archivos...</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Configurar nuevo equipo o impresora<br>
+				<sub>Necesito instalas y/o configurar un nuevo ordenador, tablet, smartphone o impresora.</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Ayuda técnica<br>
+				<sub>Obtén ayuda para problemas técnicos generales.</sub>
+			</summary>
+		</details>
+		<details>
+			<summary>Necesito una licencia de software<br>
+				<sub>Un componente de hardware puede ser: un equipo de sobremesa, un ordenador portátil, un ratón, un teclado, un micrófono...</sub>
+			</summary>
+		</details>
+    <summary><h3>📧 Correo Electrónico</h3></summary>
+    <details>
+    </details>
+    <summary><h3>📱 Aplicaciones y GestiOS</h3></summary>
+    <details>
+    </details>
+    <summary><h3>📡 Servidores e Infraestructura</h3></summary>
+    <details>
+    </details>
+    <summary><h3>🛍️ Prestashop</h3></summary>
+    <details>
+    </details>
+    <summary><h3>🔗 Desarrollos Web y Tiendas Online</h3></summary>
+    <details>
+    </details>
+  </details>
+  
